@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Engineering+Math-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Mathcad Free Installer** — Mathcad is a PTC engineering math software that combines live computation, 2D/3D plotting, text, and images in a single worksheet. Works without internet access, no account required. Full offline installation.
+**💻 Mathcad Free Installer** — Mathcad is PTC's engineering calculation and documentation tool that combines mathematical notation, live calculation, units-aware computation, and text documentation in a single worksheet. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Mathcad
 
-Mathcad is a PTC engineering math software that combines live computation, 2D/3D plotting, text, and images in a single worksheet. Engineers and scientists use it for calculations that serve as documentation, combining the computation with explanatory narrative.
+Mathcad is PTC's engineering calculation and documentation tool that combines mathematical notation, live calculation, units-aware computation, and text documentation in a single worksheet. Engineers and scientists use Mathcad to document engineering calculations, verify designs, and share calculation sheets. Mathcad Prime's whiteboard-style interface makes engineering math as readable and shareable as a traditional engineering notebook.
 
 ---
 
 ## ❌ Problem: Mathcad is hard to access
 
-- **Expensive License** — Enterprise pricing makes it inaccessible for individual engineers
-- **PTC Ecosystem** — Most valuable within PTC's engineering software ecosystem
-- **Alternatives Exist** — SMath Studio provides similar free worksheet functionality
-- **Steep Learning Curve** — Full utilization requires adapting to the Mathcad worksheet paradigm
+- **Commercial License** — Enterprise pricing can be prohibitive for small teams
+- **Subscription Required** — Modern Mathcad Prime requires subscription
+- **Learning Curve** — Units and symbolic calculation concepts require dedicated study
+- **Legacy Documents** — Old Mathcad files may not open perfectly in newer versions
 
 ---
 
@@ -121,7 +121,7 @@ Mathcad is a PTC engineering math software that combines live computation, 2D/3D
 
 ---
 
-**Mathcad Free Installer** — Mathcad is a PTC engineering math software that combines live computation, 2D/3D plotting, text, and images in a single worksheet. Install without internet connection today!
+**Mathcad Free Installer** — Mathcad is PTC's engineering calculation and documentation tool that combines mathematical notation, live calculation, units-aware computation, and text documentation in a single worksheet. Install without internet connection today!
 
 <div align="center">
 
